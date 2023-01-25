@@ -7,7 +7,7 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['2348128469022]
+global.Owner = ['2348128469022']
 global.OwnerNumber = ['2348128469022']
 global.ownertag = ['2348128469022']
 global.BotName = "Façeless"
