@@ -7,13 +7,13 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918373017400']
-global.OwnerNumber = ['918373017400']
-global.ownertag = ['918373017400']
-global.BotName = "Anya❤️"
-global.packname = "Anya bot"
-global.author = "By: chey❤️"
-global.OwnerName = "ᥴꫝꫀꪗ-𝙎𝙖𝙣💫🌙✨"
+global.Owner = ['2348128469022]
+global.OwnerNumber = ['2348128469022']
+global.ownertag = ['2348128469022']
+global.BotName = "Façeless"
+global.packname = "Vincent 😙"
+global.author = ""
+global.OwnerName = "Vincent"
 global.BotSourceCode = "https://github.com/Pika4O4/Anya-pika"
 global.SupportGroupLink = "https://chat.whatsapp.com/H6CUtq40oRDKIofIEbf1qEl"
 global.sessionName = "session"
@@ -23,7 +23,7 @@ global.sessionName = "session"
 global.prefa = ['-'] 
 
 
-global.location = "West Bengal, India"
+global.location = "West Africa, Nigeria"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
@@ -60,17 +60,17 @@ global.ntilink = []
 global.mess = {
     jobdone: 'Kaam ho gya darling...',
     useradmin: 'Sorry, only *Group Admins* can use this command !...Jaa pehle admin banke aa',
-    botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group......To chal ab *Admin* bna 😏',
-    botowner: 'Only my *Owner*ᥴꫝꫀꪗ-𝙎𝙖𝙣💫🌙✨ can use this command, and who are you...why you used this command!',
+    botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group...... 😏',
+    botowner: 'Only my *Owner* can use this command, and who are you...Bakaaaa',
     grouponly: 'This command is only made for *Groups*, and what the hell are you doing here!',
-    privateonly: 'This command is only made for *Private Chat*, chal khopche me aa!',
+    privateonly: 'This command is only made for *Private Chat*, Aho',
     botonly: 'Only the *Bot itself* can use this command!',
-    waiting: '_Command processing_ 𝓐𝔂𝓷𝓪 𝓫𝔂 𝓒𝓱𝓮𝔂.....',
+    waiting: '_Command processing_....',
     nolink: 'Please provide me *link*, Asap!',
-    error: 'Error....kuchh to garbar hai dyaa!',
-    banned: 'You are *Banned* fron using commands 😠!',
-    bangc: 'This Group is *Banned* from using Commands 😡!',
-    nonsfw: 'Dont be a pervert....Bc pdhai - likhai karo, IAS YAS bano par nhi tumhe to *nudity* dekhni hai 😒!'
+    error: 'Error....restttt',
+    banned: 'You are *Banned* fron using commands 😆😆😆!',
+    bangc: 'This Group is *Banned* from using Commands 😂😆',
+    nonsfw: 'Dont be a pervert...😒!'
     
 }
 
